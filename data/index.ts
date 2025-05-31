@@ -72,68 +72,59 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Konferensiya Boshqaruvini Mukammallashtiring",
+    des: "Osonlik bilan konferentsiyalarni yarating, yuboring va tashkil qiling.Tadbirni rejalashtirish jarayonini soddalashtiring va unutulmas tajribalar yarating.",
+    img: "/conference-bg.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://conference-list.uz/",
+    pinTitle: "Conference-list.uz",
+    pinLink: "https://conference-list.uz/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Optima 2025 Conference In TUIT",
+    des: "International Conference on Optical Communication, Photonics, Telecommunications, and Intelligent Machine Applications.",
+    img: "/optima2025.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://optima2025.tuit.uz/",
+    pinTitle: "optima2025.tuit",
+    pinLink: "https://optima2025.tuit.uz/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title:
+      "Elektronika — Do'koningizni Smart Admin bilan cho'qqiga olib chiqing!",
+    des: "Tovarlar, mijozlar, kassa, moliya va xodimlar nazorati barchasi bir joyda! Smartadmin bilan do'konlaringizni boshqarish juda oson! Hurmatli tadbirkor - 70% gacha vaqtingizni va ortiqcha xarajatlarni Smartadmin bilan tejang!😊",
+    img: "/crm.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://smartadmin.uz/",
+    pinTitle: "Smartadmin",
+    pinLink: "https://smartadmin.uz/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "TATU Talabalar Turar Joy Platformasi Adminpaneli",
+    des: "TATU talabalar turar joy platformasi adminpaneli orqali onson boshqaruv",
+    img: "/tuit-ttj.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "#",
+    pinTitle: "TUIT TTJ Adminpanel",
+    pinLink: "#",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Andrev Liklson",
-    title: "Programmer of AlphaStream Technologies",
+      "Husniddin aka bilan hamkorlik qilish juda yoqimli bo'ldi. Uning izlanuvchanligi, tezkorligi va a`lo darajadagi natijalarga erishishga bo'lgan sadoqati butun loyihamiz davomida yaqqol sezildi. Husniddin akaning dasturlashning har bir jihatiga bo'lgan ishtiyoqi ayniqsa ajralib turadi. Agar siz veb-saytingizni yangi bosqichga olib chiqmoqchi va brendingizni rivojlantirmoqchi bo'lsangiz, bular aynan siz izlayotgan ideal hamkordir.",
+    name: "Sherzod Ergashev",
+    title: "Asaxiy dasturchisi",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Davron Bekjonov",
-    title: "HR of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Murod",
-    title: "Recruitor of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Adrian Miclson",
-    title: "Web Developer of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Botir Usmonov",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Mr Husniddin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mr Husniddin's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Mr Husniddin is the ideal partner.",
+    name: "Abdulaziz Nabijonoov",
+    title: "HR, Leader of Zeka and GoblinDevs Group",
   },
 ];
 
